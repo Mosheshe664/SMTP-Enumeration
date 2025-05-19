@@ -20,7 +20,7 @@ Prerequisites
 
 Basic Usage
 
-python3 smtp_scanner.py <target>
+python3 smtp_scanner.py (target)
 
 - Replace <target> with:
   - An IP address (e.g., 192.168.1.10)
