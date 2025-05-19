@@ -4,6 +4,7 @@ This python script automates the process of scanning targets for open SMTP ports
 How to Run the SMTP Scanner Script
 
 Filename: smtp_scanner.py
+
 Purpose: Scan a target IP, hostname, or CIDR range for open SMTP ports (25, 465, 587, 2525), and optionally enumerate services and users using Nmap scripts.
 
 ---
