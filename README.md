@@ -22,7 +22,7 @@ Basic Usage
 
 python3 smtp_scanner.py (target)
 
-- Replace <target> with:
+- Replace (target) with:
   - An IP address (e.g., 192.168.1.10)
   - A CIDR range (e.g., 192.168.1.0/24)
   - A hostname (e.g., mail.example.com)
